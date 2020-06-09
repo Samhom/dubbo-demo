@@ -17,7 +17,7 @@ dubbo:
   application:
     name: provider-user     #必须添加服务名称
   registry:                 #链接注册中心
-    address: zookeeper://192.168.180.160:2181
+    address: zookeeper://192.168.31.160:2181
   protocol:
     name: dubbo        
     #注册中心信息存储文件夹的名称
